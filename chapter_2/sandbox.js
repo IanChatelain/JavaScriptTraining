@@ -202,6 +202,7 @@ let score = '100';
 // let result = Number('hello');
 // let result = String(50);
 // let result = Boolean(100);
-let result = Boolean('');
+// let result = Boolean('');
+
 
 console.log(result, typeof result);
